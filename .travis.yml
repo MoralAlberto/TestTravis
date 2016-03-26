@@ -5,5 +5,5 @@ branches:
  - master
  
 xcode_project: TestTravis.xcodeproj
-xcode_scheme: TestTravisTests 
+xcode_scheme: TestTravis 
 
